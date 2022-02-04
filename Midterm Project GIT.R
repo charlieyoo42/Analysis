@@ -18,7 +18,7 @@ token = create_token(
   access_secret = access_token_secret)
 
 
-setwd("~/Desktop/ISA 414/Midterm Project")
+setwd("###") #set desired folder path
 
 #b)Reading in the positive and negative words
 positive_words <- readLines ("positive-words.txt")
