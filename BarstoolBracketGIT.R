@@ -1,3 +1,6 @@
+##This program determines in real time who the winner of the "Best College Bar" Challenge is, 
+#Miami University's Brick Street vs California State University's Riley's Bar
+
 pacman:: p_load(magrittr, lubridate, tidyverse, forecast, zoo, tm, rtweet, mongolite, sqldf)
 appname = "charlieyoo4"
 api_key = "###"
